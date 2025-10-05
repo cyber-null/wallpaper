@@ -1,5 +1,5 @@
 # wallpaper
-Hi this repo its for wallpaper that i use
+Hi this repo its for wallpapers that i use
 
 `sorry for my bad english :)`
 
@@ -27,3 +27,8 @@ Hi this repo its for wallpaper that i use
 
 [windows11](windows11.png)
 ![windows11](windows11.png)
+
+---
+
+[view2](view2.png)
+1[view2](view2.png)
