@@ -1,6 +1,6 @@
 # wallpaper
-Hi this repo its for wallpapers that i use
 
+Hi this repo its for wallpapers that i use
 `sorry for my bad english :)`
 
 ## Wallpapers
