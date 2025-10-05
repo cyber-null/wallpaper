@@ -31,4 +31,4 @@ Hi this repo its for wallpapers that i use
 ---
 
 [view2](view2.png)
-1[view2](view2.png)
+![view2](view2.png)
