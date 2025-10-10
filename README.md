@@ -3,32 +3,31 @@
 Hi this repo its for wallpapers that i use
 `sorry for my bad english :)`
 
-## Wallpapers
+## **Category** 
 
-[mountain-view](mountain-view.png)
-![mountain-view](mountain-view.png)
-
----
-
-[sakura-forest](sakura-forest.png)
-![sakura-forest](sakura-forest.png)
-
----
-
-[sakura-view](sakura-view.jpg)
-![sakura-view](sakura-view.jpg)
+- [Anime](Anime/PREVIEW.md)
+- [Car](Car/PREVIEW.md)
+- [Galaxy](Galaxy/PREVIEW.md)
+- [OS](OS/PREVIEW.md)
+- [Views](Views/PREVIEW.md)
+- [Others](Others/PREVIEW.md)
+- [Dynamic Wallpapers](Dynamic-Wallpapers/PREVIEW.md)
+- [Live Wallpaper](Live%20Wallpaper/PREVIEW.md)
 
 ---
+## Sample
 
-[view](view.jpg)
-![view](view.jpg)
+### [Anime](Anime/anime2.png)
+![anime2](Anime/anime2.png)
 
----
+### [Car](Car/Nissan.jpg)
+![Nissan](Car/Nissan.jpg)
 
-[windows11](windows11.png)
-![windows11](windows11.png)
+### [Galaxy](Galaxy/purple-moon.png)
+![purple moon](Galaxy/purple-moon.png)
 
----
+### [OS](OS/arch.png)
+![Arch](OS/arch.png)
 
-[view2](view2.png)
-![view2](view2.png)
+### [live wallpaper](Live%20Wallpaper/LO-FI.gif)
+![LO-FI](Live%20Wallpaper/LO-FI.gif)
