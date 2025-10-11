@@ -1,7 +1,9 @@
 # wallpaper
 
 Hi this repo its for wallpapers that i use
-`sorry for my bad english :)`
+I hope you like them too.
+
+`Sorry for my weird naming conventions'
 
 ## **Category** 
 
@@ -13,6 +15,7 @@ Hi this repo its for wallpapers that i use
 - [Others](Others/PREVIEW.md)
 - [Dynamic Wallpapers](Dynamic-Wallpapers/PREVIEW.md)
 - [Live Wallpaper](Live%20Wallpaper/PREVIEW.md)
+
 
 ---
 ## Sample
